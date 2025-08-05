@@ -25,21 +25,23 @@
 
 
 
+
+<br/>
+
 ## 📊 GitHub Stats
 
-<table align="center" style="border: 2px solid #4CAF50; border-radius: 10px; padding: 15px; background-color: #f9fff9;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/GitHub%20Contributions-316-blue?style=for-the-badge&logo=github" alt="GitHub Contributions" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Current%20Streak-0-ff4500?style=for-the-badge&logo=flame" alt="Current Streak" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://img.shields.io/badge/Longest%20Streak-10%20days-32cd32?style=for-the-badge&logo=fire" alt="Longest Streak" />
-    </td>
-  </tr>
+<table align="center" style="border: 2px solid #444; border-radius: 10px; padding: 15px 25px; background: linear-gradient(135deg, #2e2e2e, #1a1a1a); color: #ccc; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; max-width: 500px; width: 100%;">
+
 </table>
+
+
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tijulkabir&show_icons=true&theme=light&count_private=true&hide_border=true" alt="GitHub Stats" width="100%" style="max-width: 650px; border-radius: 10px;" />
+</div>
+
 
 
 
