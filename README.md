@@ -2,26 +2,27 @@
   
   <h1>Hi there, I'm Toha 👋</h1>
   
-  <h3>A passionate Cybersecurity Enthusiast, Competitive Programmer, and Red Team Explorer from Bangladesh 🇧🇩</h3>
+  <h3>A passionate Cybersecurity Enthusiast, Competitive Programmer, and Red Team Explorer from Bangladesh </h3>
   
   <p>
-    I'm a Computer Science undergraduate at PUST, diving deep into the world of cybersecurity. <br /> 
+    I'm a Computer Science and Engineering undergraduate at PUST, diving deep into the world of cybersecurity. <br /> 
     My focus is on building and breaking systems to understand how to best protect them.
   </p>
   
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr>
 
 ## 🔭 I’m Currently Focused On
 
 - 🐍 Mastering **C++** & **Python** for algorithm design and security tool development.
 - 🌐 Exploring advanced topics in **Network Security** and ethical hacking methodologies.
-- 🔐 Actively participating in **CTFs** on platforms like TryHackMe to sharpen my offensive security skills.
-- 🛡️ Developing a **Secure Vault** application using OOP principles in C++ to practice secure coding.
+- 🔐 Actively participating in **CTFs** to sharpen my offensive security skills.
+- 🎮 Creating Games like Snake & Car racing using C++ and Open GL.
+- 🛡️ Developing a **Secure Vault** using OOP principles in C++ to practice secure coding.
 - 🐧 Strengthening my command of **Linux** and system administration for security operations.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr>
 
 ## 🛠️ My Tech Stack & Tools
 
@@ -29,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,kali,git,vscode,wireshark,metasploit&theme=dark" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr>
 
 ## 📊 My GitHub Stats & Activity
 
@@ -37,19 +38,16 @@
   <br/>
   <a href="https://github.com/tijulkabir">
     <img src="https://github-readme-stats.vercel.app/api?username=tijulkabir&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Toha's GitHub Stats" />
-  </a>
-  <a href="https://github.com/tijulkabir">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijulkabir&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-  <br/>
-  <br/>
+  <br/><br/>
   <a href="https://github.com/tijulkabir">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=tijulkabir&theme=github-compact&area=true&hide_border=true" alt="GitHub Activity Graph"/>
   </a>
   <br/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<hr>
 
 ## 🌐 Connect with Me
 
@@ -64,6 +62,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/tijulkabirtoha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
+    <img src="
