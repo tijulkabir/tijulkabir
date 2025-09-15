@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="https://tryhackme.com/p/Tijulkabir" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe Badge"/>
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Tijulkabir.png" alt="Your Image Badge"
   </a>
   <a href="mailto:toha.240113@s.pust.ac.bd" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
