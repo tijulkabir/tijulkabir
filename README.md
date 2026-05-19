@@ -23,7 +23,8 @@ Team:        PUST_Intruders (CTF Team)
 - Building **[Project Echo](https://github.com/tijulkabir/Echo)** — a P2P encrypted communication platform
 - Developing **[NetForge](https://github.com/tijulkabir/NetForge)** — a network security toolkit in Rust
 - Active CTF player with **national-level placements**
-- Codeforces regular — rating around **1600+**
+- Codeforces regular — rating around **910+**
+-  Codechef — rating around **1446 2 star+**
 
 ---
 
