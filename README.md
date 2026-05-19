@@ -80,7 +80,7 @@ Team:        PUST_Intruders (CTF Team)
   <img src="https://img.shields.io/badge/Hack_The_Box-Active_Player-15181d?style=for-the-badge&logo=hackthebox&logoColor=9aa0a6" alt="Hack The Box" />
 </a>
 <br/>
-<img src="https://img.shields.io/badge/Rank-Pro_Hacker-15181d?style=flat-square&labelColor=0f1115&color=9aa0a6" alt="HTB Rank" />
+
 
 </td>
 </tr>
@@ -113,7 +113,7 @@ Team:        PUST_Intruders (CTF Team)
 
 ### Writeups
 
-> I will add writeups later.
+>
 
 </td>
 </tr>
