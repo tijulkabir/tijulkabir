@@ -112,8 +112,9 @@ Team:        PUST_Intruders (CTF Team)
 <td width="50%" align="center">
 
 ### Writeups
-
->
+<a href="https://github.com/tijulkabir/ctf-writeups">
+  <img src="https://img.shields.io/badge/Read_Writeups-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
