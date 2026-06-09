@@ -15,7 +15,7 @@ Location:    Bangladesh 🇧🇩
 University:  Pabna University of Science & Technology (PUST)
 Degree:      B.Sc. in Computer Science & Engineering
 Focus:       Offensive Security · Competitive Programming · Systems Engineering
-Team:        PUST_Intruders (CTF Team)
+Team:        PUST_Intruders (CTF Team Lead)
 ```
 
 ## What I Am Doing
