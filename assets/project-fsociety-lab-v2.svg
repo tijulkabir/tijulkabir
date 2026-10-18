@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" role="img" aria-labelledby="title desc">
+<title id="title">FSociety Lab v2</title>
+<desc id="desc">Scenario-driven cybersecurity lab. A local application for web security practice, with configurable attack scenarios, request logging, and a field manual for guided analysis. Node.js · Express · SQLite · Docker. Scenario-driven architecture</desc>
+<rect x="1" y="1" width="478" height="278" rx="12" fill="#080808" stroke="#2b2b2b"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="24" y="40" font-size="24" font-weight="600" fill="#7ee787">FSociety Lab v2</text>
+<text x="24" y="66" font-size="14" fill="#d4d4d4">Scenario-driven cybersecurity lab</text>
+<path d="M24 84H456" stroke="#242424"/>
+<text x="24" y="112" font-size="14" fill="#bfbfbf">A local application for web security practice,</text>
+<text x="24" y="135" font-size="14" fill="#bfbfbf">with configurable attack scenarios, request</text>
+<text x="24" y="158" font-size="14" fill="#bfbfbf">logging, and a field manual for guided analysis.</text>
+<text x="24" y="202" font-size="10" letter-spacing="1.5" fill="#8e8e8e">STACK &amp; DESIGN</text>
+<text x="24" y="226" font-size="12.5" fill="#d4d4d4">Node.js · Express · SQLite · Docker</text>
+<text x="24" y="247" font-size="12.5" fill="#d4d4d4">Scenario-driven architecture</text>
+</g>
+</svg>

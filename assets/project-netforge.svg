@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="280" viewBox="0 0 480 280" role="img" aria-labelledby="title desc">
+<title id="title">NetForge</title>
+<desc id="desc">Byte transformation &amp; binary triage. Chain byte transformations and inspect binary data through encoding, hashing, XOR, entropy, strings extraction, PE inspection, and framing. Rust · Memory-mapped input · Reusable buffers. Parallel analysis · Property tests · Fuzzing</desc>
+<rect x="1" y="1" width="478" height="278" rx="12" fill="#080808" stroke="#2b2b2b"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="24" y="40" font-size="24" font-weight="600" fill="#7ee787">NetForge</text>
+<text x="24" y="66" font-size="14" fill="#d4d4d4">Byte transformation &amp; binary triage</text>
+<path d="M24 84H456" stroke="#242424"/>
+<text x="24" y="112" font-size="14" fill="#bfbfbf">Chain byte transformations and inspect binary</text>
+<text x="24" y="135" font-size="14" fill="#bfbfbf">data through encoding, hashing, XOR, entropy,</text>
+<text x="24" y="158" font-size="14" fill="#bfbfbf">strings extraction, PE inspection, and framing.</text>
+<text x="24" y="202" font-size="10" letter-spacing="1.5" fill="#8e8e8e">STACK &amp; DESIGN</text>
+<text x="24" y="226" font-size="12.5" fill="#d4d4d4">Rust · Memory-mapped input · Reusable buffers</text>
+<text x="24" y="247" font-size="12.5" fill="#d4d4d4">Parallel analysis · Property tests · Fuzzing</text>
+</g>
+</svg>

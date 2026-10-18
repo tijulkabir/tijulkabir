@@ -1,227 +1,130 @@
-<div align="center">
-  <a href="https://tijulkabir.me" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9aa0a6&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=140&lines=root@froster:~%23+whoami;Tijul+Kabir+Toha+aka+Froster;root@froster:~%23+cat+role.txt;CTF+Player+%7C+Competitive+Programmer+%7C+Red+Teamer" alt="Terminal Intro" />
-  </a>
-</div>
+<p align="center">
+  <img src="assets/profile-header.svg" alt="Tijul Kabir Toha, Froster — Offensive Security, Reverse Engineering, CTF Player, System Designer. CSE at PUST, Year 2 Semester 2." width="100%">
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://tijulkabir.me"><img src="https://img.shields.io/badge/Portfolio-tijulkabir.me-080808?style=for-the-badge&amp;labelColor=151515&amp;logo=googlechrome&amp;logoColor=7ee787" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/tijulkabir1/"><img src="https://img.shields.io/badge/LinkedIn-Tijul_Kabir_Toha-080808?style=for-the-badge&amp;labelColor=151515&amp;logo=linkedin&amp;logoColor=7ee787" alt="LinkedIn"></a>
+  <a href="mailto:toha.240113@s.pust.ac.bd"><img src="https://img.shields.io/badge/Email-Get_in_touch-080808?style=for-the-badge&amp;labelColor=151515&amp;logo=gmail&amp;logoColor=7ee787" alt="Email"></a>
+</p>
 
 ## About Me
 
-```yaml
-Name:        Tijul Kabir Toha
-Alias:       Froster
-Location:    Bangladesh 🇧🇩
-University:  Pabna University of Science & Technology (PUST)
-Degree:      B.Sc. in Computer Science & Engineering
-Focus:       Offensive Security · Competitive Programming · Systems Engineering
-Team:        PUST_Intruders (CTF Team Lead)
-```
+I'm **Tijul Kabir Toha**, also known as **Froster**, a **Computer Science and Engineering undergraduate at Pabna University of Science and Technology (PUST)**, Bangladesh. I'm currently in **Year 2, Semester 2 (2-2)**.
 
-## What I Am Doing
+I work across **offensive security, reverse engineering, and system design**, connecting low-level software analysis with the architecture and development of practical applications.
 
-- Building **[Project Echo](https://github.com/tijulkabir/Echo)** — a P2P encrypted communication platform
-- Developing **[NetForge](https://github.com/tijulkabir/NetForge)** — a network security toolkit in Rust
-- Active CTF player with **national-level placements**
-- Codeforces regular — rating around **910+**
--  Codechef — rating around **1446 2 star+**
+## CTF, Hackathons & System Design
 
----
+As **Team Lead @ PUST_Intruders**, I compete in national CTFs with a focus on **reverse engineering** and **binary exploitation (pwn)**. My experience includes onsite national competition and collaboration with **Mayer_Doa Inc** as a reverse-engineering contributor.
 
-## Live Competitive Stats
+I also compete in **national hackathons**, combining **system architecture, rapid prototyping, and team delivery**. My engineering work explores distributed communication, modular data pipelines, secure identity, and reliable operation under connectivity and resource constraints.
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
+**Competitive programming:** **300+ Codeforces problems solved**, primarily in **C++** ([practice archive](https://github.com/tijulkabir/code-forces)).
 
-### TryHackMe
-
-<img src="https://img.shields.io/badge/Rank-Top_1%25_(5911)-15181d?style=flat-square&labelColor=0f1115&color=9aa0a6" alt="THM Rank" />
-<img src="https://img.shields.io/badge/Streak-300_Days-15181d?style=flat-square&labelColor=0f1115&color=9aa0a6" alt="THM Streak" />
-<br/>
-<img src="https://img.shields.io/badge/Level-Mid--Level_Security_Professional-15181d?style=flat-square&labelColor=0f1115&color=9aa0a6" alt="THM Level" />
-
-</td>
-<td width="50%" align="center">
-
-### Codeforces
-
-<a href="https://codeforces.com/profile/tijulkabir1" target="_blank">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=tijulkabir1&theme=github_dark&hide_border=true&show_icons=true" alt="Codeforces Stats" width="380" />
-</a>
-
-<br/>
-
-<a href="https://codeforces.com/profile/tijulkabir1" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-tijulkabir1-15181d?style=for-the-badge&logo=codeforces&logoColor=9aa0a6" alt="Codeforces" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-### CodeChef
-
-<a href="https://www.codechef.com/users/tijulkabir" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-2★_(1446)-15181d?style=for-the-badge&logo=codechef&logoColor=9aa0a6" alt="CodeChef" />
-</a>
-<br/>
-<img src="https://img.shields.io/badge/Global_Rank-34,880-15181d?style=flat-square&labelColor=0f1115&color=9aa0a6" alt="Global Rank" />
-<img src="https://img.shields.io/badge/Country_Rank-1,022-15181d?style=flat-square&labelColor=0f1115&color=9aa0a6" alt="Country Rank" />
-
-</td>
-<td width="50%" align="center">
-
-### Hack The Box
-
-<a href="https://app.hackthebox.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Hack_The_Box-Active_Player-15181d?style=for-the-badge&logo=hackthebox&logoColor=9aa0a6" alt="Hack The Box" />
-</a>
-<br/>
-
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## CTF & Writeups
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-### CTF
-
-<div align="left">
-
-- Integrated Hawkers Initial CTF 2026 — **35th place** (1057 points)
-- CUET StealthFlags 2025 — **82nd national rank** (1550 points)
-- National CTF (PUST_Intruders) — **67th place** (1186 points)
-- Persistent Undergrad Security Team — **78th place** (620 points)
-- TryHackMe Bangladesh leaderboard — **Rank #66**
-
-</div>
-
-</td>
-<td width="50%" align="center">
-
-### Writeups
-<a href="https://github.com/tijulkabir/ctf-writeups">
-  <img src="https://img.shields.io/badge/Read_Writeups-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-
-### Certifications
-
-<img src="https://img.shields.io/badge/CCEP-15181d?style=for-the-badge&logoColor=9aa0a6" alt="CCEP" />
-<img src="https://img.shields.io/badge/CPPS-15181d?style=for-the-badge&logoColor=9aa0a6" alt="CPPS" />
-<img src="https://img.shields.io/badge/Meta_Hacker_Cup_Round_1_Qualifier-15181d?style=for-the-badge&logoColor=9aa0a6" alt="Meta Hacker Cup Round 1 Qualifier" />
-
-</div>
-
----
-
-## Tech & Arsenal
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-15181d?style=flat-square&logo=cplusplus&logoColor=9aa0a6)
-![Python](https://img.shields.io/badge/Python-15181d?style=flat-square&logo=python&logoColor=9aa0a6)
-![Linux](https://img.shields.io/badge/Linux-15181d?style=flat-square&logo=linux&logoColor=9aa0a6)
-![Git](https://img.shields.io/badge/Git-15181d?style=flat-square&logo=git&logoColor=9aa0a6)
-
-</div>
-
----
+[**Read my CTF writeups →**](https://github.com/tijulkabir/ctf-writeups)
 
 ## Featured Projects
 
-<div align="center">
 <table>
 <tr>
-<td width="50%">
-
-<h3 align="center">Project Echo</h3>
-<p align="center">
-  <a href="https://github.com/tijulkabir/Echo" target="_blank">
-    <img src="https://img.shields.io/badge/View_Source-15181d?style=for-the-badge&logo=github&logoColor=9aa0a6" />
-  </a>
-</p>
-<p align="center">
-  <strong>P2P Encrypted Communication Platform</strong><br/>
-  Hybrid mesh routing · End-to-end encryption · Voice infrastructure
-</p>
-
+<td width="50%" valign="top">
+<a href="https://github.com/tijulkabir/echo"><img src="assets/project-echo.svg" alt="Echo — offline Android messaging for emergency and disaster-relief communication, using BLE mesh, independent direct messages, compressed media, and cached delivery." width="100%"></a>
 </td>
-<td width="50%">
-
-<h3 align="center">NetForge</h3>
-<p align="center">
-  <a href="https://github.com/tijulkabir/NetForge" target="_blank">
-    <img src="https://img.shields.io/badge/View_Source-15181d?style=for-the-badge&logo=github&logoColor=9aa0a6" />
-  </a>
-</p>
-<p align="center">
-  <strong>Network Security Toolkit</strong><br/>
-  Memory-safe Rust core · Packet analysis · Vulnerability scanning
-</p>
-
+<td width="50%" valign="top">
+<a href="https://github.com/tijulkabir/netforge"><img src="assets/project-netforge.svg" alt="NetForge — Rust byte-transformation and binary-triage engine with reusable buffers, parallel analysis, and property tests." width="100%"></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/tijulkabir/rea-ctf"><img src="assets/project-rea-ctf.svg" alt="rea-ctf — reverse-engineering CLI with Ghidra integration and pwntools/Z3 solver templates." width="100%"></a>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/tijulkabir/fsociety-lab-v2"><img src="assets/project-fsociety-lab-v2.svg" alt="FSociety Lab v2 — scenario-driven local cybersecurity lab built with Node.js, Express, SQLite, and Docker." width="100%"></a>
 </td>
 </tr>
 </table>
-</div>
 
----
+<sub>Echo's core BLE transport builds on <a href="https://github.com/permissionlesstech/bitchat-android">bitchat-android</a>; rea-ctf extends the <a href="https://github.com/morluto/rea">REA analysis engine</a>.</sub>
+
+## Competitive Profiles & Stats
+
+<table>
+<tr>
+<td width="50%" align="center">
+  <a href="https://tryhackme.com/p/tijulkabir"><img src="assets/tryhackme-card.svg" alt="TryHackMe: Top 1%, capability score 72, highest streak 452 days, highest league Sapphire; achieved #1 on Bangladesh's monthly leaderboard." width="440"></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://codeforces.com/profile/tijulkabir1"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=tijulkabir1&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;show_icons=true" alt="Codeforces statistics for tijulkabir1" width="380"></a>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/tijulkabir"><img src="https://img.shields.io/badge/TryHackMe-tijulkabir-080808?style=for-the-badge&amp;labelColor=151515&amp;logo=tryhackme&amp;logoColor=7ee787" alt="TryHackMe profile"></a>
+  <a href="https://codeforces.com/profile/tijulkabir1"><img src="https://img.shields.io/badge/Codeforces-tijulkabir1-080808?style=for-the-badge&amp;labelColor=151515&amp;logo=codeforces&amp;logoColor=7ee787" alt="Codeforces profile"></a>
+  <a href="https://www.codechef.com/users/tijulkabir"><img src="https://img.shields.io/badge/CodeChef-2%E2%98%85_%7C_tijulkabir-080808?style=for-the-badge&amp;labelColor=151515&amp;logo=codechef&amp;logoColor=7ee787" alt="CodeChef profile"></a>
+</p>
+
+## Selected Achievements
+
+### Hackathons
+
+| Event | Result |
+| --- | --- |
+| **July National Hackathon 2026 — Crisis Tech** | **Echo — 1st in engineering score · 4th overall**, with **Team Binary Bandits**; developed through a **72-hour build sprint** |
+| **PSTU National Hackathon 2026** | Cleared the preliminaries and qualified among the **Top 50 finalists** |
+
+### Capture the Flag
+
+| Competition | Achievement |
+| --- | --- |
+| **EWU National Robofest 2026** | **16th nationally**; represented **PUST's first-ever onsite national CTF team** |
+| **Integrated Hawkers Initial CTF 2026** | **35th place**, with **1,057 points** |
+| **National CTF — PUST_Intruders** | **67th nationally**, with **1,186 points** |
+| **DIU Cyber Security Club National CTF** | **78th place**, with **620 points**, representing **Persistent Undergrad Security Team** |
+| **CUET StealthFlags 2025 — Televerse 1.0** | **82nd nationally**, with **1,550 points**, with **PUST_Intruders** |
+| **BDSec CTF 2026** | **129th of 545 teams globally**, with **Mayer_Doa Inc**; focused on **reverse engineering**, with **all submitted RE solutions accepted** |
+| **BDSec CTF 2025** | Competed with **PUST Intruders** |
+
+### Competitive Programming
+
+| Platform / Competition | Achievement |
+| --- | --- |
+| [**CodeChef**](https://www.codechef.com/users/tijulkabir) | **2-star programmer** |
+| **Meta Hacker Cup 2025** | Qualified for **Round 1** |
+| **Solver Fest 3.0** | Programming contest participation |
+
+Additional event experience includes **Phoenix Summit 2026**, **IEEE PUST TechXplore 2026**, and TryHackMe's **Love at First Breach CTF**.
+
+## Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,rust,python,kotlin,js,dart,react,nextjs,nodejs,flutter,linux,git,docker&amp;theme=dark&amp;perline=13" alt="C++, Rust, Python, Kotlin, JavaScript, Dart, React, Next.js, Node.js, Flutter, Linux, Git, Docker">
+</p>
+
+**Security & systems:** Binary analysis · Reverse engineering · Web security · Network analysis · BLE mesh networking<br>
+**Engineering:** Jetpack Compose · PySide6 · SQLite · GitHub Actions · Cargo · Gradle · CMake
+
+## Certifications & Training
+
+- [**Certified Cybersecurity Educator Professional (CCEP)**](https://courses.redteamleaders.com/exam-completion/4ffef4a281d6b982) — Red Team Leaders.
+- **Certified Phishing Prevention Specialist (CPPS)** — Hack & Fix.
+- **TryHackMe:** Jr Penetration Tester, Web Fundamentals, and Pre Security learning paths.
+- [**Data Structure & Algorithms Bootcamp**](https://media.geeksforgeeks.org/courses/certificates/850b636c8efc53d9c2105c71416c7514.pdf) — GeeksforGeeks.
+- **Advent of Cyber 2023, 2024, and 2025**, plus **Hacker Holidays 2026** — TryHackMe.
 
 ## GitHub Analytics
 
-
-<div align="center">
-
-
-
-  <br/><br/>
-
-  <img width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tijulkabir&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
-
-
+<p align="center">
+  <a href="https://github.com/tijulkabir">
+    <img src="https://github-readme-stats.vercel.app/api?username=tijulkabir&amp;show_icons=true&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;hide_rank=true&amp;title_color=7ee787&amp;icon_color=7ee787&amp;disable_animations=true&amp;cache_seconds=86400" alt="Tijul Kabir's GitHub statistics" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijulkabir&amp;layout=compact&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;title_color=7ee787&amp;langs_count=6&amp;exclude_repo=rea-ctf&amp;disable_animations=true&amp;cache_seconds=86400" alt="Languages across Tijul Kabir's repositories, excluding the downstream REA engine" width="49%">
+  </a>
+</p>
 
 ## Connect
 
-<div align="center">
-  <a href="https://tijulkabir.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-tijulkabir.me-15181d?style=for-the-badge&logo=googlechrome&logoColor=9aa0a6" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/tijulkabirtoha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Tijul_Kabir_Toha-15181d?style=for-the-badge&logo=linkedin&logoColor=9aa0a6" alt="LinkedIn" />
-  </a>
-  <a href="mailto:toha.240113@s.pust.ac.bd">
-    <img src="https://img.shields.io/badge/Email-toha.240113@s.pust.ac.bd-15181d?style=for-the-badge&logo=gmail&logoColor=9aa0a6" alt="Email" />
-  </a>
-</div>
+[**Portfolio**](https://tijulkabir.me) · [**LinkedIn**](https://www.linkedin.com/in/tijulkabir1/) · [**GitHub**](https://github.com/tijulkabir) · [**Email**](mailto:toha.240113@s.pust.ac.bd)
 
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1115,50:9aa0a6,100:0f1115&height=120&section=footer" width="100%" />
-
-  <br/>
-
-  <pre>Hobby to Passion</pre>
-</div>
+<p align="center"><em>Hobby to Passion.</em></p>

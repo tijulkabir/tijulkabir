@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="232" viewBox="0 0 960 232" role="img" aria-labelledby="title desc">
+  <title id="title">Tijul Kabir Toha — Froster</title>
+  <desc id="desc">Offensive Security, Reverse Engineering, CTF Player, System Designer. CSE at PUST, Year 2, Semester 2.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#202020" stroke-width=".5"/></pattern>
+  </defs>
+  <rect x="1" y="1" width="958" height="230" rx="16" fill="#050505" stroke="#2b2b2b"/>
+  <rect x="1" y="1" width="958" height="230" rx="16" fill="url(#grid)" opacity=".4"/>
+  <path d="M28 53H932" stroke="#242424"/>
+  <g font-family="'Cascadia Code',Consolas,monospace">
+    <text x="40" y="33" font-size="13" fill="#929292">tijulkabir@github:~</text>
+    <text x="906" y="33" text-anchor="end" font-size="11" fill="#7ee787">HOBBY TO PASSION</text>
+    <text x="40" y="87" font-size="13" fill="#7ee787">$ whoami</text>
+  </g>
+  <text x="40" y="137" font-family="'Segoe UI',Arial,sans-serif" font-size="43" font-weight="700" fill="#f1f1f1">Tijul Kabir Toha</text>
+  <text x="40" y="170" font-family="'Segoe UI',Arial,sans-serif" font-size="17" fill="#b8b8b8">Offensive Security · Reverse Engineering · CTF Player · System Designer</text>
+  <text x="40" y="198" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#929292">CSE @ PUST  /  Year 2, Semester 2 (2-2)  /  Bangladesh</text>
+  <g fill="none" stroke="#7ee787" stroke-width="1.5" opacity=".5"><path d="M788 97L855 116L823 169L765 152Z M788 97L823 169 M855 116L765 152"/><circle cx="788" cy="97" r="7" fill="#080808"/><circle cx="855" cy="116" r="7" fill="#080808"/><circle cx="823" cy="169" r="7" fill="#080808"/><circle cx="765" cy="152" r="7" fill="#080808"/></g>
+</svg>
