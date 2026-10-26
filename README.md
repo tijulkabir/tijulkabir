@@ -79,6 +79,7 @@ I also compete in **national hackathons**, combining **system architecture, rapi
 
 | Competition | Achievement |
 | --- | --- |
+| **Intra-Department Cyber Security (CTF) Contest** | **Champion** — Dept. of CSE, PUST |
 | **EWU National Robofest 2026** | **16th nationally**; represented **PUST's first-ever onsite national CTF team** |
 | **Integrated Hawkers Initial CTF 2026** | **35th place**, with **1,057 points** |
 | **National CTF — PUST_Intruders** | **67th nationally**, with **1,186 points** |
