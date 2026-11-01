@@ -29,23 +29,14 @@ I also compete in **national hackathons**, combining **system architecture, rapi
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/tijulkabir/echo"><img src="assets/project-echo.svg" alt="Echo — offline Android messaging for emergency and disaster-relief communication, using BLE mesh, independent direct messages, compressed media, and cached delivery." width="100%"></a>
-</td>
-<td width="50%" valign="top">
 <a href="https://github.com/tijulkabir/netforge"><img src="assets/project-netforge.svg" alt="NetForge — Rust byte-transformation and binary-triage engine with reusable buffers, parallel analysis, and property tests." width="100%"></a>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/tijulkabir/rea-ctf"><img src="assets/project-rea-ctf.svg" alt="rea-ctf — reverse-engineering CLI with Ghidra integration and pwntools/Z3 solver templates." width="100%"></a>
-</td>
+
 <td width="50%" valign="top">
 <a href="https://github.com/tijulkabir/fsociety-lab-v2"><img src="assets/project-fsociety-lab-v2.svg" alt="FSociety Lab v2 — scenario-driven local cybersecurity lab built with Node.js, Express, SQLite, and Docker." width="100%"></a>
 </td>
 </tr>
 </table>
-
-<sub>Echo's core BLE transport builds on <a href="https://github.com/permissionlesstech/bitchat-android">bitchat-android</a>; rea-ctf extends the <a href="https://github.com/morluto/rea">REA analysis engine</a>.</sub>
 
 ## Competitive Profiles & Stats
 
@@ -72,7 +63,6 @@ I also compete in **national hackathons**, combining **system architecture, rapi
 
 | Event | Result |
 | --- | --- |
-| **July National Hackathon 2026 — Crisis Tech** | **Echo — 1st in engineering score · 4th overall**, with **Team Binary Bandits**; developed through a **72-hour build sprint** |
 | **PSTU National Hackathon 2026** | Cleared the preliminaries and qualified among the **Top 50 finalists** |
 
 ### Capture the Flag
@@ -120,7 +110,7 @@ Additional event experience includes **Phoenix Summit 2026**, **IEEE PUST TechXp
 <p align="center">
   <a href="https://github.com/tijulkabir">
     <img src="https://github-readme-stats.vercel.app/api?username=tijulkabir&amp;show_icons=true&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;hide_rank=true&amp;title_color=7ee787&amp;icon_color=7ee787&amp;disable_animations=true&amp;cache_seconds=86400" alt="Tijul Kabir's GitHub statistics" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijulkabir&amp;layout=compact&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;title_color=7ee787&amp;langs_count=6&amp;exclude_repo=rea-ctf&amp;disable_animations=true&amp;cache_seconds=86400" alt="Languages across Tijul Kabir's repositories, excluding the downstream REA engine" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijulkabir&amp;layout=compact&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;title_color=7ee787&amp;langs_count=6&amp;disable_animations=true&amp;cache_seconds=86400" alt="Languages across Tijul Kabir's repositories" width="49%">
   </a>
 </p>
 
