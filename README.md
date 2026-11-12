@@ -18,7 +18,7 @@ I work across **offensive security, reverse engineering, and system design**, co
 
 As **Team Lead @ PUST_Intruders**, I compete in national CTFs with a focus on **reverse engineering** and **binary exploitation (pwn)**. My experience includes onsite national competition and collaboration with **Mayer_Doa Inc** as a reverse-engineering contributor.
 
-I also compete in **national hackathons**, combining **system architecture, rapid prototyping, and team delivery**. My engineering work explores distributed communication, modular data pipelines, secure identity, and reliable operation under connectivity and resource constraints.
+I also compete in **national hackathons**, placing **1st in Engineering Score** and **4th Overall** at the **July National Hackathon 2026** with [Echo](https://github.com/tijulkabir/echo), combining **system architecture, rapid prototyping, and team delivery**. My engineering work explores distributed communication, modular data pipelines, secure identity, and reliable operation under connectivity and resource constraints.
 
 **Competitive programming:** **300+ Codeforces problems solved**, primarily in **C++** ([practice archive](https://github.com/tijulkabir/code-forces)).
 
@@ -29,9 +29,14 @@ I also compete in **national hackathons**, combining **system architecture, rapi
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/tijulkabir/netforge"><img src="assets/project-netforge.svg" alt="NetForge — Rust byte-transformation and binary-triage engine with reusable buffers, parallel analysis, and property tests." width="100%"></a>
+<a href="https://github.com/tijulkabir/echo"><img src="assets/project-echo.svg" alt="Echo — off-grid BLE mesh messenger; 1st in Engineering Score and 4th Overall at July National Hackathon 2026." width="100%"></a>
 </td>
 
+<td width="50%" valign="top">
+<a href="https://github.com/tijulkabir/netforge"><img src="assets/project-netforge.svg" alt="NetForge — Rust byte-transformation and binary-triage engine with reusable buffers, parallel analysis, and property tests." width="100%"></a>
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://github.com/tijulkabir/fsociety-lab-v2"><img src="assets/project-fsociety-lab-v2.svg" alt="FSociety Lab v2 — scenario-driven local cybersecurity lab built with Node.js, Express, SQLite, and Docker." width="100%"></a>
 </td>
@@ -63,6 +68,7 @@ I also compete in **national hackathons**, combining **system architecture, rapi
 
 | Event | Result |
 | --- | --- |
+| **July National Hackathon 2026** (JRA) | **1st in Engineering Score** · **4th Overall**, with [Echo](https://github.com/tijulkabir/echo) |
 | **PSTU National Hackathon 2026** | Cleared the preliminaries and qualified among the **Top 50 finalists** |
 
 ### Capture the Flag
