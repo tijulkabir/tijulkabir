@@ -115,8 +115,8 @@ Additional event experience includes **Phoenix Summit 2026**, **IEEE PUST TechXp
 
 <p align="center">
   <a href="https://github.com/tijulkabir">
-    <img src="https://github-readme-stats.vercel.app/api?username=tijulkabir&amp;show_icons=true&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;hide_rank=true&amp;title_color=7ee787&amp;icon_color=7ee787&amp;disable_animations=true&amp;cache_seconds=86400" alt="Tijul Kabir's GitHub statistics" width="49%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tijulkabir&amp;layout=compact&amp;theme=github_dark&amp;bg_color=080808&amp;hide_border=true&amp;title_color=7ee787&amp;langs_count=6&amp;disable_animations=true&amp;cache_seconds=86400" alt="Languages across Tijul Kabir's repositories" width="49%">
+    <img src="https://raw.githubusercontent.com/tijulkabir/tijulkabir/output/stats.svg" alt="Tijul Kabir's GitHub statistics" width="49%">
+    <img src="https://raw.githubusercontent.com/tijulkabir/tijulkabir/output/top-langs.svg" alt="Languages across Tijul Kabir's repositories" width="49%">
   </a>
 </p>
 
