@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="186" viewBox="0 0 480 186" role="img" aria-label="Most Used Languages">
+<rect x="1" y="1" width="478" height="184" rx="12" fill="#080808" stroke="#2b2b2b"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="24" y="38" font-size="18" font-weight="600" fill="#7ee787">Most Used Languages</text>
+<path d="M24 54H456" stroke="#242424"/>
+<clipPath id="bar"><rect x="24" y="72" width="432.0" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)">
+<rect x="24.00" y="72" width="324.98" height="8" fill="#3178c6"/>
+<rect x="348.98" y="72" width="40.82" height="8" fill="#f1e05a"/>
+<rect x="389.80" y="72" width="28.90" height="8" fill="#A97BFF"/>
+<rect x="418.70" y="72" width="13.64" height="8" fill="#555555"/>
+<rect x="432.34" y="72" width="12.48" height="8" fill="#b07219"/>
+<rect x="444.82" y="72" width="11.18" height="8" fill="#e34c26"/>
+</g>
+<circle cx="29" cy="107" r="5" fill="#3178c6"/>
+<text x="42" y="112" font-size="14" fill="#d4d4d4">TypeScript <tspan fill="#8e8e8e">75.2%</tspan></text>
+<circle cx="253" cy="107" r="5" fill="#f1e05a"/>
+<text x="266" y="112" font-size="14" fill="#d4d4d4">JavaScript <tspan fill="#8e8e8e">9.5%</tspan></text>
+<circle cx="29" cy="133" r="5" fill="#A97BFF"/>
+<text x="42" y="138" font-size="14" fill="#d4d4d4">Kotlin <tspan fill="#8e8e8e">6.7%</tspan></text>
+<circle cx="253" cy="133" r="5" fill="#555555"/>
+<text x="266" y="138" font-size="14" fill="#d4d4d4">C <tspan fill="#8e8e8e">3.2%</tspan></text>
+<circle cx="29" cy="159" r="5" fill="#b07219"/>
+<text x="42" y="164" font-size="14" fill="#d4d4d4">Java <tspan fill="#8e8e8e">2.9%</tspan></text>
+<circle cx="253" cy="159" r="5" fill="#e34c26"/>
+<text x="266" y="164" font-size="14" fill="#d4d4d4">HTML <tspan fill="#8e8e8e">2.6%</tspan></text>
+</g>
+</svg>
